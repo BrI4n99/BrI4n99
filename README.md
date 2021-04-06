@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrI4n99
-- 👀 I’m interested in Game Design
+- 👀 I’m interested in Game Design, Football, Darts
 - 🌱 I’m currently learning Modelling, Texturing and Programming
 - 💞️ I’m looking to collaborate on a Game
 - 📫 How to reach me: tim@tim-liehr.de
